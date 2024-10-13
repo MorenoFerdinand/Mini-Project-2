@@ -19,6 +19,7 @@ Menu Awal
 
 Gambar di atas adalah menu awal dari program jika pertama kali dijalankan. Terdapat 3 menu yang dapat dipilih
 
+
 # Penjelasan Menu
 
 1. Admin
@@ -30,9 +31,9 @@ Jika angka 2 dipilih maka user akan masuk ke menu customer. Menu untuk pilihan c
 3. Exit
 Jika angka 3 dipilih maka user akan keluar dari program.
 
-
 4. Angka Selain 1-3
 
+![Screenshot 2024-10-14 063022](https://github.com/user-attachments/assets/5e96e2c3-8a5c-46eb-b47f-94e9f3603112)
 
 Jika angka yang dimasukkan selain 1, 2 dan 3 maka akan muncul pesan "Maaf Tidak Ada Inputan", sebagai contoh saya memasukkan angka 4.
 
@@ -41,8 +42,8 @@ Jika angka yang dimasukkan selain 1, 2 dan 3 maka akan muncul pesan "Maaf Tidak 
 
 ![Screenshot 2024-10-14 051513](https://github.com/user-attachments/assets/87e120f9-a5d9-43eb-9a17-daa1ecfdd3dd)
 
-
 Menu admin akan muncul jika angka 1 dipilih di menu awal.
+
 
 # Penjelasan Menu
 
@@ -54,19 +55,15 @@ Menambahkan data dapat dilakukan dengan cara memilih angka 4 di menu admin, sepe
 
 ![Screenshot 2024-10-14 053601](https://github.com/user-attachments/assets/9500ac97-47dc-4848-b59a-9ef7ea025883)
 
-
 Menambahkan Masa Paket, Nama Paket, dan Harga Paket
 Sealanjutnya yang muncul adalah masukkan masa paket, masukkan masa paket yang ingin di tambahkan. Lalu tambahkan nama paket, dan harga paket yag sesuai. Seperti contoh saya "4/bln, Paket Komplit, Rp.500.000.
-
-
 
 2. Membaca Data
 
    
 Membaca data yang ada di databse dapat dilakukan dengan cara memilih angka 2 di menu admin (Cek Paket).
 
-
-4. Mengubah Data
+3. Mengubah Data
 
 ![Screenshot 2024-10-14 055723](https://github.com/user-attachments/assets/3d2ba9f0-70ee-499e-8825-e3c36429d07a)
 
@@ -85,7 +82,6 @@ Menghapus data dapat dilakukan dengan cara memilih angka 4 di menu admin. Menu y
 Keluar dari menu admin dapat dilakukan dengan cara memilih angka 5. Program akan keluar dari menu admin dan akan kembali ke menu awal.
 
 6. Angka Selain 1-5
-
 
 ![Screenshot 2024-10-14 060754](https://github.com/user-attachments/assets/7723ee45-e05d-4294-bc0a-12b85dbf8fa1)
 
