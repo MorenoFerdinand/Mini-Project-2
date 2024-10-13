@@ -60,11 +60,13 @@ Sealanjutnya yang muncul adalah masukkan masa paket, masukkan masa paket yang in
 
 
 
-2. 
+2. Membaca Data
+
+   
 Membaca data yang ada di databse dapat dilakukan dengan cara memilih angka 2 di menu admin (Cek Paket).
 
 
-3. Mengubah Data
+4. Mengubah Data
 
 ![Screenshot 2024-10-14 055723](https://github.com/user-attachments/assets/3d2ba9f0-70ee-499e-8825-e3c36429d07a)
 
