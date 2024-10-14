@@ -26,7 +26,7 @@ Gambar di atas adalah menu awal dari program jika pertama kali dijalankan. Terda
 Jika angka 1 dipilih maka user akan masuk ke menu admin. Menu untuk pilihan admin dapat melakukan CRUD (Create, Read, Update dan Delete).
 
 2. Customer
-Jika angka 2 dipilih maka user akan masuk ke menu customer. Menu untuk pilihan customer dapat melakukan menampilkan data pembelian wifi indihome, membeli paket wifi, menegcek paket wifi dan menambah paket.
+Jika angka 2 dipilih maka user akan masuk ke menu customer. Menu untuk pilihan customer dapat melakukan menampilkan data pembelian wifi indihome, membeli paket wifi, mengecek paket wifi dan menambah paket.
 
 3. Exit
 Jika angka 3 dipilih maka user akan keluar dari program.
@@ -58,10 +58,11 @@ Menambahkan data dapat dilakukan dengan cara memilih angka 4 di menu admin, sepe
 Menambahkan Masa Paket, Nama Paket, dan Harga Paket
 Sealanjutnya yang muncul adalah masukkan masa paket, masukkan masa paket yang ingin di tambahkan. Lalu tambahkan nama paket, dan harga paket yag sesuai. Seperti contoh saya "4/bln, Paket Komplit, Rp.500.000.
 
-2. Membaca Data
+2. Mengecek Paket
 
+![Screenshot 2024-10-14 132941](https://github.com/user-attachments/assets/aeae9ae9-28ca-470d-bd32-9d1328f7e19e)
    
-Membaca data yang ada di databse dapat dilakukan dengan cara memilih angka 2 di menu admin (Cek Paket).
+Mengecek paket yang ada di databse dapat dilakukan dengan cara memilih angka 2 di menu admin (Cek Paket).
 
 3. Mengubah Data
 
@@ -69,11 +70,11 @@ Membaca data yang ada di databse dapat dilakukan dengan cara memilih angka 2 di 
 
 Mengubah data seperti harga dapat dilakukan dengan cara memilih angka 3 di menu admin. Menu yang muncul pertama adalah masukkan no paket, kedua masa paket, ketiga nama paket, keempat harga baru.
 
-4. Menghapus Data/Cancel Data
+4. Menghapus Paket/Cancel Paket
 
 ![Screenshot 2024-10-14 055953](https://github.com/user-attachments/assets/1a5b9f88-be08-4165-928b-9564213cafe8)
 
-Menghapus data dapat dilakukan dengan cara memilih angka 4 di menu admin. Menu yang muncul adalah Masukkan No Paket Yang Ingin Dihapus. Disini dapat menghapus nama barang yang ingin dihapus dari database sebagai contoh saya akan menghapus  1  |   1/bln    |   Paket Hemat   |    Rp.250.000.
+Menghapus paket dapat dilakukan dengan cara memilih angka 4 di menu admin. Menu yang muncul adalah Masukkan No Paket Yang Ingin Dihapus. Disini dapat menghapus nama barang yang ingin dihapus dari database sebagai contoh saya akan menghapus  1  |   1/bln    |   Paket Hemat   |    Rp.250.000.
 
 5. Exit
 
